@@ -28,9 +28,6 @@
             Console.WriteLine(" ");
             Console.WriteLine("When we are attempting to add things together, we use brackets capturing the given values into a operation. If we are trying to attach strings, then we use double quotes instead of brackets. With the brackets, the computer knows to do mathematical operations and with double quotes, it knows to connect strings.");
 
-
-
-
         }
     }
 }
