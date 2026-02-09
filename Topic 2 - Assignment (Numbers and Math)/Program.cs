@@ -20,7 +20,7 @@
 
 
             double pi = Math.PI;
-            Console.WriteLine("The area of a circle with the radius of 3 cm is " + Math.Round(2 * 3 * pi, 1));
+            Console.WriteLine("The area of a circle with the radius of 3 cm is " + Math.Round(2 * 3 * pi, 1) + "cm².");
             Console.WriteLine(" ");
 
 
